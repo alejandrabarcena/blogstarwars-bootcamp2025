@@ -3,8 +3,7 @@
 
 ## 📖 Lista de Lectura del Blog de Star Wars
 
-El **Star Wars Blog** es una aplicación interactiva que te permite explorar y guardar una lista de lectura personalizada sobre el universo de Star Wars.  
-Desde personajes legendarios hasta planetas icónicos y naves espaciales impresionantes, podrás descubrir, marcar como favoritos y volver a consultar tu contenido preferido.  
+El **Star Wars Blog** es una aplicación interactiva que te permite explorar y guardar una lista de lectura personalizada sobre el universo de Star Wars.  Desde personajes legendarios hasta planetas icónicos y naves espaciales impresionantes, podrás descubrir, marcar como favoritos y volver a consultar tu contenido preferido.  
 Ideal para fans que quieren tener su propio registro de elementos del canon de Star Wars.
 
 - 🌐 **Demo en vivo**: [Star Wars Blog](https://melodious-cannoli-2faf39.netlify.app/)
