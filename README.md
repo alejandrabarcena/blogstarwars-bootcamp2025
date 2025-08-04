@@ -29,7 +29,6 @@ Ideal para fans que quieren tener su propio registro de elementos del canon de S
 - 🔍 **Búsqueda** – Encuentra personajes, planetas y más
 - 📱 **Diseño Responsivo** – Funciona en todos los dispositivos
 
-### 🔮 Backend Preparado
 - 📁 **Estructura organizada** para integración con backend
 - ⚙️ **Configuración de API** lista
 - 🗄️ **Esquemas de base de datos** planificados
@@ -81,6 +80,7 @@ npm run dev      # Inicia el servidor de desarrollo
 npm run build    # Compila para producción
 npm run preview  # Vista previa de la compilación de producción
 npm run lint     # Ejecuta ESLint
+
 🖼️ Agregar Imágenes
 Coloca tus imágenes de Star Wars en:
 public/images/
