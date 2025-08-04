@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom animations and improvements */
+.bg-gradient {
+  background: linear-gradient(135deg, #343a40 0%, #495057 100%) !important;
+}
+
+.hover-card {
+  transition: all 0.3s ease;
+}
+
+.hover-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 35px rgba(255, 193, 7, 0.4) !important;
+}
+
+.card-img-top {
+  transition: transform 0.3s ease;
+}
+
+.hover-card:hover .card-img-top {
+  transform: scale(1.05);
+}
+
+/* Enhanced glow effects */
+.text-warning {
+  text-shadow: 0 0 10px rgba(255, 193, 7, 0.3);
+}
+
+.border-warning {
+  box-shadow: 0 0 15px rgba(255, 193, 7, 0.2);
+}
+
+/* Loading animations */
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 5px rgba(255, 193, 7, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(255, 193, 7, 0.8);
+  }
+}
+
+.spinner-border-warning {
+  animation: pulse-glow 2s infinite;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ffc107;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ffca2c;
+}
+
+/* Production polish */
+.display-2 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.shadow-lg {
+  box-shadow: 0 1rem 3rem rgba(255, 193, 7, 0.175) !important;
+}
