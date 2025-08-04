@@ -140,5 +140,3 @@ GET    /api/images/:filename
 4. **Update frontend** to use new endpoints
 5. **Deploy backend** to cloud
 6. **Update frontend** config for production
-
-¿Quieres que empecemos con alguna fase específica del backend?
