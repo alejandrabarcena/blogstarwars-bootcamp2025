@@ -44,6 +44,8 @@ Ideal para fans que quieren tener su propio registro de elementos del canon de S
 - **Estado**: React Context
 - **API**: SWAPI (Star Wars API)
 
+  
+## 📁 Estructura del Proyecto
 star-wars-blog/
 
 src/
@@ -67,7 +69,6 @@ docs/ – Documentación
 public/
 
 images/ – Recursos de imágenes
-
 
 
 ## 🎯 Comandos de Desarrollo
