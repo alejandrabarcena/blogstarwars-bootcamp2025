@@ -44,19 +44,6 @@ Ideal para fans que quieren tener su propio registro de elementos del canon de S
 - **Estado**: React Context
 - **API**: SWAPI (Star Wars API)
 
-star-wars-blog/
-├── src/
-│ ├── components/ # Componentes de React
-│ ├── contexts/ # Gestión de estado
-│ ├── services/ # Servicios de API
-│ ├── config/ # Configuración
-│ └── types/ # Definiciones de tipos
-├── backend/ # Futuro backend (preparado)
-├── shared/ # Utilidades compartidas
-├── docs/ # Documentación
-└── public/
-└── images/ # Recursos de imágenes
-
 ## 📁 Estructura del Proyecto
 star-wars-blog/
 ├── src/
