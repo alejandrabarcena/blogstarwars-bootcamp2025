@@ -59,4 +59,36 @@ star-wars-blog/
 └── public/
 └── images/ # Recursos de imágenes
 
+## 📁 Estructura del Proyecto
+star-wars-blog/
+├── src/
+│ ├── components/ # Componentes de React
+│ ├── contexts/ # Gestión de estado
+│ ├── services/ # Servicios de API
+│ ├── config/ # Configuración
+│ └── types/ # Definiciones de tipos
+├── backend/ # Futuro backend (preparado)
+├── shared/ # Utilidades compartidas
+├── docs/ # Documentación
+└── public/
+└── images/ # Recursos de imágenes
+
+
+
+## 🎯 Comandos de Desarrollo
+
+```bash
+npm run dev      # Inicia el servidor de desarrollo
+npm run build    # Compila para producción
+npm run preview  # Vista previa de la compilación de producción
+npm run lint     # Ejecuta ESLint
+🖼️ Agregar Imágenes
+Coloca tus imágenes de Star Wars en:
+public/images/
+├── people/1.jpg     # Luke Skywalker
+├── planets/1.jpg    # Tatooine
+├── starships/2.jpg  # CR90 corvette
+└── vehicles/4.jpg   # Sand Crawler
+
+
 
