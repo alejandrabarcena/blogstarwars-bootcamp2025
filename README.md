@@ -59,48 +59,4 @@ star-wars-blog/
 └── public/
 └── images/ # Recursos de imágenes
 
-bash
-Copiar
-Editar
 
-## 🎯 Comandos de Desarrollo
-
-```bash
-npm run dev      # Inicia el servidor de desarrollo
-npm run build    # Compila para producción
-npm run preview  # Vista previa de la compilación de producción
-npm run lint     # Ejecuta ESLint
-🖼️ Agregar Imágenes
-Coloca tus imágenes de Star Wars en:
-
-bash
-Copiar
-Editar
-public/images/
-├── people/1.jpg     # Luke Skywalker
-├── planets/1.jpg    # Tatooine
-├── starships/2.jpg  # CR90 corvette
-└── vehicles/4.jpg   # Sand Crawler
-🚀 Desarrollo Backend
-¿Listo para añadir el backend? Revisa:
-
-docs/BACKEND_PLAN.md – Plan completo de desarrollo
-
-src/config/api.js – Configuración de API
-
-src/services/backendApi.js – Servicios de backend
-
-📝 Notas
-✅ Optimizado 
-
-✅ Manejo de CORS implementado
-
-✅ Carga rápida con división de código
-
-✅ Manejo de errores para mayor estabilidad
-
-✅ Diseño responsive adaptable a móviles
-
-
-
-## 📁 Estructura del Proyecto
