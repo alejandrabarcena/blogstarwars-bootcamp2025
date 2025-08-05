@@ -49,19 +49,6 @@ public/images/
 - `10.jpg` - Kamino
 - ... (continúa según la API)
 
-### ⚡ Species (public/images/species/)
-- `1.jpg` - Human
-- `2.jpg` - Droid
-- `3.jpg` - Wookie
-- `4.jpg` - Rodian
-- `5.jpg` - Hutt
-- `6.jpg` - Yoda's species
-- `7.jpg` - Trandoshan
-- `8.jpg` - Mon Calamari
-- `9.jpg` - Ewok
-- `10.jpg` - Sullustan
-- ... (continúa según la API)
-
 ### 🚀 Starships (public/images/starships/)
 - `2.jpg` - CR90 corvette
 - `3.jpg` - Star Destroyer
@@ -73,15 +60,6 @@ public/images/
 - `13.jpg` - TIE Advanced x1
 - `15.jpg` - Executor
 - `17.jpg` - Rebel transport
-- ... (continúa según la API)
-
-### 🚛 Transports (public/images/transports/)
-- Varios transportes según la API de transports
-- `1.jpg` - Transport 1
-- `2.jpg` - Transport 2
-- `3.jpg` - Transport 3
-- `4.jpg` - Transport 4
-- `5.jpg` - Transport 5
 - ... (continúa según la API)
 
 ### 🚗 Vehicles (public/images/vehicles/)
